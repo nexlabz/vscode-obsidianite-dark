@@ -1,0 +1,25 @@
+{
+    "name": "obsidianite-dark",
+    "displayName": "Obsidianite Dark",
+    "description": "A dark neon-inspired VS Code theme based on the Obsidianite theme for Obsidian.",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:nexlabz/vscode-obsidianite-dark.git"
+    },
+    "version": "1.0.0",
+    "publisher": "NexLabz",
+    "engines": {
+      "vscode": "^1.70.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Obsidianite Dark",
+          "uiTheme": "vs-dark",
+          "path": "./themes/obsidianite-dark-color-theme.json"
+        }
+      ]
+    }
+  }
+  
