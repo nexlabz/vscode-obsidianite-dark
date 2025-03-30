@@ -1,21 +1,12 @@
-### VS Code Theme: Obsidianite
-
-
-![Obsidianite Theme - Code](assets/screenshot-1.png)
-![Obsidianite Theme - Code](assets/screenshot-2.png)
-
-## Inspiration
-
-This VS Code theme is heavily inspired by the amazing [Obsidianite theme for Obsidian](https://github.com/bennyxguo/Obsidian-Obsidianite) created by [@bennyxguo](https://github.com/bennyxguo).
-
-All credit for the original color palette and design goes to them.
-
-
 # Obsidianite Dark – VS Code Theme
 
 A dark, neon-inspired Visual Studio Code theme based on the [Obsidianite](https://github.com/bennyxguo/Obsidian-Obsidianite) theme for the Obsidian note-taking app.
 
 I loved the look and feel of Obsidianite so much that I ported its color palette and style into VS Code as a full theme.
+
+![Obsidianite Theme - Code](assets/screenshot-1.png)
+
+![Obsidianite Theme - Code](assets/screenshot-2.png)
 
 ---
 
