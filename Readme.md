@@ -1,19 +1,8 @@
 ### VS Code Theme: Obsidianite
 
-## I love the Obsidianite theme made for the Obsidian notetaking app. I decided to try to port as much of the style of that as I could over to VS code.
 
-## Installation
-To easily install via github run the following.
-
-```
-code --install-extension https://github.com/nexlabz/vscode-obsidianite-dark/releases/download/Release/obsidianite-dark-1.0.0.vsix
-```
-
-You can also clone the repo and run on your local machine using the following (make sure to point to the correct location to the vsix file.)
-
-```
-code --install-extension obsidianite-dark-1.0.0.vsix
-```
+![Obsidianite Theme - Code](assets/screenshot-1.png)
+![Obsidianite Theme - Code](assets/screenshot-2.png)
 
 ## Inspiration
 
@@ -42,7 +31,7 @@ code --install-extension https://github.com/yourusername/vscode-obsidianite-dark
 
 ## ✨ Inspiration
 
-This VS Code theme is heavily inspired by the brilliant Obsidianite theme for Obsidian by @bennyxguo.
+This VS Code theme is heavily inspired by the amazing [Obsidianite theme for Obsidian](https://github.com/bennyxguo/Obsidian-Obsidianite) created by [@bennyxguo](https://github.com/bennyxguo).
 
 All credit for the original color palette and aesthetic goes to them. This theme is simply a VS Code adaptation.
 
